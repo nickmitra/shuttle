@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599189241369",
+    "project_id": "shuttle-project-440e7",
+    "storage_bucket": "shuttle-project-440e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599189241369:android:0dfbdb660fe70b9c9a3488",
+        "android_client_info": {
+          "package_name": "com.shuttle.riderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATbjA-fmT8Rg6w06L12plADRSLywq4AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
